@@ -1,0 +1,49 @@
+@import url(template.css);
+
+
+#rt-top-surround {background: transparent; box-shadow: none; border:none;}
+#rt-top-surround:after {background: transparent;}
+#rt-drawer {background: transparent; box-shadow: none; border:none;}
+#rt-showcase {background: transparent; box-shadow: none; border:none;}
+#rt-maintop {background: transparent; box-shadow: none; border:none;}
+#rt-footer {background: transparent; box-shadow: none; border:none;}
+#rt-copyright {background: transparent; box-shadow: none; border:none;}
+
+.date-block {color: #A0A0A0; font-size: 11px; padding: 5px 0; font-family: tahoma;}
+
+/* Typography */
+body {font-size: 12px;line-height: 1.7em;font-family: Helvetica,Arial, Sans-Serif;}
+body.font-size-is-xlarge {font-size: 15px;line-height: 1.7em;}
+body.font-size-is-large {font-size: 14px;line-height: 1.7em;}
+body.font-size-is-default {font-size: 12px;line-height: 1.7em;}
+body.font-size-is-small {font-size: 11px;line-height: 1.7em;}
+body.font-size-is-xsmall {font-size: 10px;line-height: 1.7em;}
+form {margin: 0;padding: 0;}
+p {margin: 0 0 15px 0;}
+h1, h2, h3, h4, h5 {margin: 15px 0;line-height: 1.1em;}
+h1 {font-size: 260%;}
+h2 {font-size: 200%;}
+h2.title {font-size: 170%;}
+h3 {font-size: 150%;}
+h4 {font-size: 120%;}
+h5 {font-size: 110%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
